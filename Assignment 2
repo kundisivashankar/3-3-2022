@@ -1,0 +1,9 @@
+#program to merge two tuples.
+
+t1=("paneer","mushroom","potato")
+
+t2=("fish","mutton","chicken")
+
+t3=t1+t2
+
+print(t3)
